@@ -1,6 +1,11 @@
-# Nuxt 3 Minimal Starter
+# Nuxt 3 Starter
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+This Nuxt 3 starter provides a minimal setup including ESLint, Prettier and Tailwind.
+The provided configuration should aid you as a best-practice implementation for further development.
+
+## ESLint
+
+The starter relies on the official [Nuxt ESLint Module](https://eslint.nuxt.com/packages/module), an all-in-one ESLint integration for Nuxt that comes a flat config file that is the default configuration format since ESLint v9.0.0.
 
 ## Setup
 
